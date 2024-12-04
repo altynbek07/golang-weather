@@ -1,7 +1,7 @@
 package weather
 
 import (
-	"demo/weather/geo"
+	"demo/weather-app/geo"
 	"fmt"
 	"io"
 	"net/http"

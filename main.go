@@ -1,8 +1,8 @@
 package main
 
 import (
-	"demo/weather/geo"
-	"demo/weather/weather"
+	"demo/weather-app/geo"
+	"demo/weather-app/weather"
 	"flag"
 	"fmt"
 )

@@ -1,3 +1,3 @@
-module demo/weather
+module demo/weather-app
 
 go 1.23.3
