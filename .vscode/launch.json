@@ -10,8 +10,8 @@
             "type": "go",
             "request": "launch",
             "mode": "auto",
-            // "program": "${fileDirname}"
-            "program": "." //  Чтобы всегда запускалось от корня проекта
+            "program": "${fileDirname}"
+            // "program": "." //  Чтобы всегда запускалось от корня проекта
         }
     ]
 }
